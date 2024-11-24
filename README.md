@@ -20,7 +20,7 @@
 4. [Test service.ipynb](https://github.com/SergeyGermanovichML/Recommendation-system-social-network/blob/main/Recommendation-system-social-network/notebooks/4.%20test%20service.ipynb) - Imitation of a printer on the jupyter notebook
 
 ### Conceptual diagram of working with data
-<img src="https://github.com/SiarheyHermanovich/Recommendation-system-social-network/blob/main/Recommendation-system-social-network/app/schema.png" width="100%">
+<img src="https://github.com/SergeyGermanovichML/Recommendation-system-social-network/blob/main/Recommendation-system-social-network/app/schema.png" width="100%">
 
 ### Main libraries used
 ![PANDAS](https://img.shields.io/badge/PANDAS-1.4.2-090909??style=flat-square&logo=PANDAS)
