@@ -33,7 +33,7 @@
 ![uvicorn](https://img.shields.io/badge/UVICORN-0.16.0-090909??style=flat-square&logo=uvicorn)
 
 ###  Quality Model Assessment:
-- In [train model](https://github.com/SergeyGermanovich/Recommendation-system-social-network/blob/main/Recommendation-system-social-network/notebooks/3.%20train%20model%20.ipynb) various metrics and their comparisons are presented.
+- In [train model](https://github.com/SergeyGermanovichML/Recommendation-system-social-network/blob/main/Recommendation-system-social-network/notebooks/3.%20train%20model%20.ipynb) various metrics and their comparisons are presented.
 - The best model based on the metric **HitRate@5** (the metric takes the value = 1 if the user liked 1 or more posts out of 5 posts, 0 if none of the 5 were liked)
 -- On test data, the catboost model showed HitRate@5 = 0.866
 
