@@ -61,3 +61,9 @@ At the moment, the project is not invested in Docker (close to implementation), 
 6. **Test the service using a browser or Postman:**
    <br/> `http://localhost:8000/post/recommendations/?id=200&time=2023-11-12%2022:57:45`
    <br/> In this request template, you can change the ID and time. Range of possible IDs: `199 < id < 163206`.
+
+
+### Possible ways of improvement
+ - creating embeddings of post texts using BERT family transformers.
+ - creating user and text vectors
+ - using neural networks as a model for the recommendation system
